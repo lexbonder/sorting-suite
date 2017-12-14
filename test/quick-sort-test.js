@@ -41,7 +41,7 @@ describe('quickSort', function() {
 
   it('Should handle large arrays of random numbers', function() {
     let array = [];
-    for (i = 0; i < 1260000; i++) {
+    for (i = 0; i < 1200000; i++) {
       array.push(Math.floor(Math.random() * 12000 + 1))
     }
     expect(quickSort(array)).to.be.sorted();
