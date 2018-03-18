@@ -12,8 +12,6 @@ Sorting Suite is a set of sorting algorithms. This project includes Bubble Sort,
 
 ## Installation
 
-This application was built using the `create-react-app` boilerplate. This boilerplate provides a lot of built in content and dependencies for free. The [documentation](https://github.com/facebookincubator/create-react-app) is avialable to read through.
-
 To set up: 
 
 Fork or clone this project
